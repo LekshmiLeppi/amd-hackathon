@@ -1,0 +1,15 @@
+
+RULE_001
+Policy number must be present.
+
+RULE_002
+Premium amount must be disclosed.
+
+RULE_003
+Customer signature is mandatory.
+
+RULE_004
+Nominee information should exist.
+
+RULE_005
+KYC identification details are required.
